@@ -1,0 +1,7 @@
+red = "#F27970"
+pink = "#FF8A57"
+yellow = "#F0BD26"
+green = "#54B345"
+blue = "#05B9E2"
+cyan = "#32B897"
+purple = "#8983BF"
